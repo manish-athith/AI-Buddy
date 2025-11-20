@@ -1,4 +1,4 @@
-**AI Study Buddy with Real ML **
+****AI Study Buddy with Real ML ****
 
 An interactive Streamlit-based AI study assistant that combines traditional machine learning classifiers with LLM-powered answers to give students age-appropriate, subject-aware, and intent-specific explanations. 
 
@@ -191,7 +191,9 @@ streamlit run ai_buddy_ml.py
 **Author**
 
 Manish Choudhary
+
 GitHub: https://github.com/<manish-athith>
+
 LinkedIn: https://www.linkedin.com/in/manish-choudhary110904/
 Email: manish.athith@gmail.com
 
